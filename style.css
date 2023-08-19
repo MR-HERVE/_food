@@ -1,4 +1,19 @@
-#upper{
+body {
+    background-color: antiquewhite;
+}
+
+
+#upper {
     float: left;
     border-radius: 10px;
+}
+
+#top-left {
+     text-align: left;
+     margin-top: 10px;
+     position: static;
+} 
+
+#top-right {
+    position: static;
 }
