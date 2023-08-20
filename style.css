@@ -6,14 +6,29 @@ body {
 #upper {
     float: left;
     border-radius: 10px;
+    background-color: aquamarine;
 }
 
 #top-left {
-     text-align: left;
-     margin-top: 10px;
-     position: static;
+    display: inline-block;
+    margin: auto;
 } 
 
 #top-right {
-    position: static;
+    display: inline-block;
+    margin: auto;
+}
+
+#eat_text {
+    float: right;
+}
+
+.text {
+    float: left;
+    background-color: darkgray;
+}
+
+.img-cad {
+    float: right;
+    margin-right: 20px;
 }
