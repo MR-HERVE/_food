@@ -10,13 +10,13 @@ body {
 }
 
 #top-left {
-    display: inline-block;
-    margin: auto;
+     width: 45%;
+     float: left;
 } 
 
 #top-right {
-    display: inline-block;
-    margin: auto;
+     width: 45%;
+     float: right;
 }
 
 #eat_text {
@@ -25,7 +25,6 @@ body {
 
 .text {
     float: left;
-    background-color: darkgray;
 }
 
 .img-cad {
