@@ -21,7 +21,19 @@ body {
 
 #toget { 
     width: 90%;
-}  
+} 
+
+#img-01 {
+    margin-left: 10px;
+}
+
+#img-02 {
+    text-align: center;
+}
+
+#img-03 {
+    margin-right: 10px;
+}
 
 #img { 
     width: 70%;
