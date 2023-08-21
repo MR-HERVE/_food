@@ -32,17 +32,22 @@ body {
 }
 
 #img-03 {
-    margin-right: 10px;
+    text-align: right;
 }
 
 #img { 
-    width: 70%;
+    width: 60%;
     float: left;
 }
 
 #eat_text {
+    float: right ;
+    width: 20%;
+}
+
+#menu {
     float: left;
-    width: 30%;
+    text-align: center;
 }
 
 .text {
@@ -52,4 +57,14 @@ body {
 .img-cad {
     float: right;
     margin-right: 20px;
+}
+
+.end {
+    background-color: aquamarine;
+}
+
+.pin {
+    background-color: green;
+    border-color: green;
+    border-radius: 20px;
 }
