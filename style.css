@@ -56,6 +56,11 @@ body {
 
 .burg {
     float: left;
+    width: 40%;
+}
+
+.deals {
+    float: right;
 }
 
 .img-cad {
