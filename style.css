@@ -20,7 +20,8 @@ body {
 } 
 
 #toget { 
-    width: 90%;
+    width: 80%;
+    float: right;
 } 
 
 #img-01 {
