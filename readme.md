@@ -44,5 +44,9 @@
    git push -u origin master
    ```
 
-   
+ ## Issues
+  Had some problem with some css properties which dont seem to apply when opening the page.
+
+## Author
+  - IRAKIZA HERVE
    
