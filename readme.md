@@ -7,3 +7,42 @@
     - HTML5
     - CSS3  
 
+## pre-requisites
+  To carry out this you'll need:
+
+   - windows/linux/MacOS;
+     
+     *4GB Ram
+     *4GB space
+
+## Setup
+  This section  will guide you to apply this to your machine.
+
+  1. Open VS Code(can work in either of the three,linux,windows or MacOS)
+ <html>
+    <head>
+       <title></title>
+    </head>
+    <body></body>
+ </html>
+
+2. Add the HTML and css file to git repository, use;
+   
+   ```
+   git add .....
+   ```
+
+3. Commit them;
+
+   ```
+   git commit -m "the commit message"
+   ```
+
+4. push to the repo
+   
+   ```
+   git push -u origin master
+   ```
+
+   
+   
