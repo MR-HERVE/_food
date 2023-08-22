@@ -20,8 +20,8 @@ body {
 } 
 
 #toget { 
-    width: 80%;
-    float: right;
+    width: 70%;
+    float: left;
 } 
 
 #img-01 {
@@ -37,7 +37,7 @@ body {
 }
 
 #img { 
-    width: 60%;
+    width: 100%;
     float: left;
 }
 
@@ -56,7 +56,7 @@ body {
 
 .burg {
     float: left;
-    width: 40%;
+    width: 70%;
 }
 
 .deals {
@@ -70,6 +70,7 @@ body {
 
 .end {
     background-color: aquamarine;
+    margin-bottom: 10px;
 }
 
 .pin {
@@ -80,6 +81,6 @@ body {
 
 .column {
     float: left;
-    width: 33.33%;
+    width: 43.33%;
     padding: 5px;
 }
